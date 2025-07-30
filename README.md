@@ -15,6 +15,13 @@
 
 - ⚡ Fun fact **Call me Kaz**
 
+### Kasun's GitHub Activity Graphs
+
+| ![Kasun's github stats](https://github-readme-stats.vercel.app/api?username=kazwij&show_icons=true&theme=tokyonight) | ![Kasun GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kazwij&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazwij&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kazwij&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kasun-wijethunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasun-wijethunga" height="30" width="40" /></a>
